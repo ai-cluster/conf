@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Schedule on Vixcon Hugo| Event &amp;amp; Conference hugo template</title>
-    <link>https://examplesite.org/schedule/</link>
+    <link>https://ai-cluster.ru/conf/schedule/</link>
     <description>Recent content in Schedule on Vixcon Hugo| Event &amp;amp; Conference hugo template</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 10 Sep 2019 13:51:25 +0600</lastBuildDate>
     
-	<atom:link href="https://examplesite.org/schedule/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ai-cluster.ru/conf/schedule/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
