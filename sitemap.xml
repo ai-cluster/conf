@@ -23,11 +23,6 @@
   </url>
   
   <url>
-    <loc>https://ai-cluster.ru/conf/about/</loc>
-    <lastmod>2019-09-10T13:51:25+06:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ai-cluster.ru/conf/tags/agency/</loc>
     <lastmod>2019-09-10T13:51:25+06:00</lastmod>
   </url>
@@ -144,6 +139,11 @@
   
   <url>
     <loc>https://ai-cluster.ru/conf/</loc>
+    <lastmod>2019-09-10T13:51:25+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ai-cluster.ru/conf/about/</loc>
     <lastmod>2019-09-10T13:51:25+06:00</lastmod>
   </url>
   
