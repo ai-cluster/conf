@@ -12,57 +12,48 @@
     
     
     <item>
-      <title>Andrew Kemnitz</title>
-      <link>https://ai-cluster.ru/conf/speaker/andrew-kemnitz/</link>
-      <pubDate>Tue, 10 Sep 2019 13:51:25 +0600</pubDate>
-      
-      <guid>https://ai-cluster.ru/conf/speaker/andrew-kemnitz/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Kemnitz Wagon</title>
-      <link>https://ai-cluster.ru/conf/speaker/kemnitz-wagon/</link>
-      <pubDate>Tue, 10 Sep 2019 13:51:25 +0600</pubDate>
-      
-      <guid>https://ai-cluster.ru/conf/speaker/kemnitz-wagon/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Marta Kemnitz</title>
-      <link>https://ai-cluster.ru/conf/speaker/marta-kemnitz/</link>
-      <pubDate>Tue, 10 Sep 2019 13:51:25 +0600</pubDate>
-      
-      <guid>https://ai-cluster.ru/conf/speaker/marta-kemnitz/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    
-    <item>
-      <title>Martin Gptil</title>
+      <title>Андрей Заворин</title>
       <link>https://ai-cluster.ru/conf/speaker/martin-gptil/</link>
       <pubDate>Tue, 10 Sep 2019 13:51:25 +0600</pubDate>
       
       <guid>https://ai-cluster.ru/conf/speaker/martin-gptil/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+      <description></description>
     </item>
     
     <item>
-      <title>Mehedi Keil</title>
+      <title>Виталий Гумиров</title>
+      <link>https://ai-cluster.ru/conf/speaker/marta-kemnitz/</link>
+      <pubDate>Tue, 10 Sep 2019 13:51:25 +0600</pubDate>
+      
+      <guid>https://ai-cluster.ru/conf/speaker/marta-kemnitz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Игорь Болдырев</title>
+      <link>https://ai-cluster.ru/conf/speaker/andrew-kemnitz/</link>
+      <pubDate>Tue, 10 Sep 2019 13:51:25 +0600</pubDate>
+      
+      <guid>https://ai-cluster.ru/conf/speaker/andrew-kemnitz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Илларион Яловенко</title>
       <link>https://ai-cluster.ru/conf/speaker/mehedi-keil/</link>
       <pubDate>Tue, 10 Sep 2019 13:51:25 +0600</pubDate>
       
       <guid>https://ai-cluster.ru/conf/speaker/mehedi-keil/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+      <description></description>
     </item>
     
     <item>
-      <title>MJohn Doe</title>
-      <link>https://ai-cluster.ru/conf/speaker/mjohn-doe/</link>
+      <title>Свириденко Дмитрий Иванович</title>
+      <link>https://ai-cluster.ru/conf/speaker/kemnitz-wagon/</link>
       <pubDate>Tue, 10 Sep 2019 13:51:25 +0600</pubDate>
       
-      <guid>https://ai-cluster.ru/conf/speaker/mjohn-doe/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+      <guid>https://ai-cluster.ru/conf/speaker/kemnitz-wagon/</guid>
+      <description></description>
     </item>
     
   </channel>
